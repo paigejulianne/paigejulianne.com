@@ -1,0 +1,10 @@
+# Robots.txt for paigejulianne.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://paigejulianne.com/sitemap.xml
+
+# LLMs.txt for AI crawlers
+# See: https://paigejulianne.com/llms.txt

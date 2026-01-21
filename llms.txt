@@ -1,0 +1,75 @@
+# Paige Julianne Sullivan - Professional Consulting Website
+
+> Polymath technologist with 30+ years solving complex problems across every layer of the stack.
+
+## About
+
+Paige Julianne Sullivan is a Full-Stack Polymath, Cloud Architect, AI Engineer, Language Designer, and Open-Source Author based in Thomasville, NC. She is available for consulting engagements and part-time contract work (remote).
+
+## Contact
+
+- Email: paige@paigejulianne.com
+- Phone: 919-798-0699
+- Location: Thomasville, NC (Remote work preferred)
+- LinkedIn: https://linkedin.com/in/paigejulianne
+- GitHub: https://github.com/paigejulianne
+
+## Expertise
+
+### Technical Skills
+
+**Languages:** Go, PHP, Python, JavaScript, TypeScript, Node.js, C/C++, Bash, SQL, HTML/CSS
+
+**Frameworks:** React, Vue, Laravel, Symfony, Tailwind CSS, WebAssembly (WASM)
+
+**Cloud & DevOps:** GCP (Cloud Run, Cloud SQL, Memorystore), AWS, Azure, Docker, Terraform, CI/CD, GitHub Actions
+
+**AI & ML:** Claude API, Google Gemini, Local LLM deployment & training, Prompt engineering, AI integration
+
+**Databases:** MongoDB, PostgreSQL, MySQL, MariaDB, Redis, MS SQL Server
+
+**Specializations:** DSL Design, Graph Engines, Real-time WebSocket, Compiler/Parser Design, System Architecture
+
+## Key Accomplishments
+
+- 30+ years of professional experience
+- 4 startups founded
+- 100+ applications delivered
+- 99.999% uptime achieved (Concert Telecommunications)
+- 7 open-source REDCap modules adopted internationally
+
+## Current Work
+
+**Topology.Cloud** (Founder / Chief Architect, Nov 2025 - Present)
+Building a comprehensive Building Infrastructure Management Platform - a digital twin system for modeling electrical, plumbing, HVAC, networking, A/V, security, and fire protection systems using directed acyclic graph architecture.
+
+- Designed Topology Formula Language (TFL) - a custom DSL with lexer, parser, and AST
+- Created Component Modeling Language (CML) with 9,500+ XML-based component definitions
+- Built real-time collaboration system using binary WebSocket protocol
+
+## Notable Experience
+
+- **Johns Hopkins University** - Programmer Analyst, Bloomberg School of Public Health (2020-2025)
+- **IBM Corporation** - Senior Software Engineer & Advisory Technical Lead (2004-2008, 2019)
+- **Cisco Systems** - Senior Software Engineer (2009-2010)
+- **Concert Telecommunications** - Founder / Lead Engineer (2008-2014)
+
+## Education
+
+- Academy for Women and Leadership - Johns Hopkins Carey Business School (2025)
+- FastTrac TechVenture Graduate - Center for Entrepreneurial Development (2013)
+- NC A&T State University - Computer Science
+
+## Services
+
+Available for:
+- Part-time engagements
+- Contract work
+- Consulting engagements
+- Remote work
+
+## Resume
+
+Download resume:
+- PDF: https://paigejulianne.com/resume/Paige-Julianne-Sullivan-Resume.pdf
+- DOCX: https://paigejulianne.com/resume/Paige-Julianne-Sullivan-Resume.docx
